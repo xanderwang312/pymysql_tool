@@ -1,0 +1,2 @@
+# pymysql_tool
+一款基于Python实现封装对mysql数据的操作
